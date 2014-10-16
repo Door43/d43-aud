@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aud:home|Door43 (aud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aud|d43-aud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aud/archive/master.zip|d43-aud.zip]]
+
+**Recent Changes**
+{{changes>ns = aud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aud|Ethnologue data]]
+
